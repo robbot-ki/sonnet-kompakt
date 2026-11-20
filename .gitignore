@@ -1,0 +1,8 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+# Typings that Claude Code generates when the mod is saved; not part of the source
+.claude-plugin/types/
+# Local output of werkzeuge/messung.mjs
+messung-ausgabe/
