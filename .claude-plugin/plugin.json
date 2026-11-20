@@ -1,0 +1,6 @@
+{
+  "name": "sonnet-kompakt",
+  "version": "1.0.0",
+  "description": "Ersetzt den Verlauf einer langen Sitzung durch eine Zusammenfassung von Claude Sonnet 5.5 plus letzte Nachrichten wörtlich, ohne Opus-Antwort: /kompakt oder Knopf in der Leiste; fragt nie nach.",
+  "types": "./types/index.d.ts"
+}
